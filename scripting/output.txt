@@ -1,0 +1,4 @@
+root 192.168.1.1 10/11/2005 /usr/local/bin/one_app
+root 192.168.1.1 10/12/2005 /usr/local/bin/two_app
+root 192.168.1.1 10/12/2005 /var/logs/system.log
+root 192.168.1.2 10/13/2005 /var/logs/approot.log

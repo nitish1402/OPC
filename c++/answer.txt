@@ -1,0 +1,5 @@
+Whats's 7 time 6?
+#define REVEAL
+#ifdef REVEAL
+42
+#endif
